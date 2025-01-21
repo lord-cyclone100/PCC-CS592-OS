@@ -49,30 +49,3 @@ int main(){
 
     return 0;
 }
-
-
-/*#include <stdio.h>  
-#include <string.h>  
-int main()  
-{  
-    char str[40]; // declare the size of character string  
-    printf (" \n Enter a string to be reversed: ");  
-    scanf ("%s", str);  
-      
-    // use strrev() function to reverse a string  
-    //for()
-    printf (" \n After the reverse of a string: %s ", strlen(str));  
-    return 0;  
-} */
-
-/*#include <stdio.h>
-#include <string.h>
-
-int main(){
-    char str[20];
-    printf("Enter a string : ");
-    scanf("%s",str);
-    int l = strlen(str);
-    printf("The string : %d",l);
-    return 0;
-}*/
