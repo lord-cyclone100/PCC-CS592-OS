@@ -1,0 +1,8 @@
+day_name|temperature
+Sunday|17
+Monday|27
+Tuesday|10
+Wednesday|13
+Thursday|30
+Friday|37
+Saturdy|22

@@ -1,0 +1,8 @@
+day_name|Weather
+Sunday|Cold
+Monday|Hot
+Tuesday|Very Cold
+Wednesday|Very Cold
+Thursday|Hot
+Friday|Very Hot
+Saturdy|Cold

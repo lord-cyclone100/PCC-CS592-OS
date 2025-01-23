@@ -1,0 +1,12 @@
+level;
+civic.
+radar,
+kayak;
+noon,
+rotator,
+racecar;
+madam.
+redivider,
+deified;
+stats.
+wow,
